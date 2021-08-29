@@ -11,7 +11,7 @@ fi
 echo ${UUID}
 
 if [[ -z "${AlterID}" ]]; then
-  AlterID="64"
+  AlterID="0"
 fi
 echo ${AlterID}
 
